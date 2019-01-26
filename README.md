@@ -7,7 +7,7 @@
 3. Type "python3 -m venv venv"
 4. Type "source/venv/bin/activate"
 5. Type "pip install -r requirements.txt"
-6. Type python app.py
+6. Type "python app.py"
 
 ### Project Introduction:
 
