@@ -9,11 +9,10 @@
 5. Type "pip3 install -r requirements.txt"
 6. Type "python3 app.py"
 
-<code>
-  <div>
-    hello_world
-  </div>
-</code>
+```
+hello world
+cd project
+```
 
 ### Description
 
