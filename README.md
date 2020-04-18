@@ -4,15 +4,10 @@
 
 1. Download the project
 2. Open the terminal and change directory to the project folder
-3. Type <code>"python3 -m venv venv"</code>
+3. Type "python3 -m venv venv"
 4. Type "source/venv/bin/activate"
 5. Type "pip3 install -r requirements.txt"
 6. Type "python3 app.py"
-
-```
-hello world
-cd project
-```
 
 ### Description
 
